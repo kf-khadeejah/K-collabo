@@ -1,2 +1,3 @@
-# K-collabo
-First assignment
+AREN TRAINING
+OPEN REPOSITORY
+
