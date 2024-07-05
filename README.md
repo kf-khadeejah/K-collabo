@@ -1,3 +1,4 @@
-AREN TRAINING
-OPEN REPOSITORY
-
+# AREN TRAINING
+## OPEN REPOSITORY
+- Contributors
+- Khadeejah Kareem-Ibrahim
